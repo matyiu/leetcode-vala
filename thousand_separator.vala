@@ -1,3 +1,5 @@
+// Leetcode: https://leetcode.com/problems/thousand-separator/
+
 class ThousandSeparator
 {
     private const int MIN_DIGIT_SEPARATOR = 3;
