@@ -1,0 +1,2 @@
+# Leetcode Vala
+In this repo I plan to upload Leetcode problems to learn and explore Vala and code using a strong typed language. I have used Typescript before, but let's be honest, that's a virtual typed language. So using this language is a great opportunity to learn how to code in a real typed language
